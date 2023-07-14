@@ -1,5 +1,6 @@
 # ECommerce_Project
 Corizo Minor Project for Internship
+
 PROBLEM STATEMENT:
 An e-commerce site is a website where users buy products through an online platform.
 
